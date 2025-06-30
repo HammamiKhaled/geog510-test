@@ -80,7 +80,8 @@ This is `inline code`.
 [reference]: https://www.example.com
 
 ### Images
-![Alt text for image](https://via.placeholder.com/150x100 "Image Title")
+[Screenshot 2025-06-30 111922](https://github.com/user-attachments/assets/ff78a9b9-2847-4123-9fb5-55ebd9414902
+ "Logo")
 
 ## Code
 
